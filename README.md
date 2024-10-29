@@ -3,7 +3,7 @@
 <h3>ENTER YOUR NAME: VINUSH CV</h3>
 <h3>ENTER YOUR REGISTER NO: 212222230176</h3>
 <h3>EX. NO:06</h3>
-<h3>DATE:26\10\2024</h3>
+<h3>DATE:</h3>
 <h1> <align=center> MATRIX TRANSPOSITION USING SHARED MEMORY </h3>
   Implement Matrix transposition using GPU Shared memory.</h3>
 
